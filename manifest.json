@@ -1,0 +1,12 @@
+{
+  "id": "csv-refraction",
+  "name": "CSV Refraction",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Native CSV viewing and editing with Rainbow CSV support.",
+  "author": "deezig",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
+
