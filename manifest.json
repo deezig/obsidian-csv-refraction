@@ -1,9 +1,9 @@
 {
   "id": "csv-refraction",
   "name": "CSV Refraction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.5.0",
-  "description": "Native CSV viewing and editing with Rainbow CSV support.",
+  "description": "Native CSV viewing and editing in Obsidian with Rainbow CSV style highlighting.",
   "author": "deezig",
   "authorUrl": "",
   "fundingUrl": "",
